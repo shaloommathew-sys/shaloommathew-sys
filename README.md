@@ -40,6 +40,7 @@
 | Repo | What it covers |
 |---|---|
 | [pyspark-data-engineering](https://github.com/shaloommathew-sys/pyspark-data-engineering) | Bronze→Silver→Gold Medallion pipeline, SCD Type 2, data quality framework |
+| [bigquery-pipeline-patterns](https://github.com/shaloommathew-sys/bigquery-pipeline-patterns) | Partitioning, clustering, incremental ELT, SCD Type 2, data quality in BigQuery |
 
 ---
 
